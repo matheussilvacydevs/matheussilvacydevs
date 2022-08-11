@@ -26,3 +26,5 @@
 </div>
 
 <img src="https://media.giphy.com/media/D0jGorbyCnZyE/giphy.gif" width="1007" height="100" />
+
+![](https://github.com/matheussilvacydevs/snk/raw/output/github-contribution-grid-snake.svg)

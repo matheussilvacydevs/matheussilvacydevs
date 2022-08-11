@@ -27,6 +27,5 @@
 <a href="https://ibb.co/XLZJkb4"><img src="https://i.ibb.co/vqxzvHB/pngwing-com-1.png" alt="pngwing-com-1" border="0" /></a>
   </div>
    
-   
-![](https://github.com/matheussilvacydevs/snk/raw/output/github-contribution-grid-snake.svg)
-
+  
+![Snake animation](https://github.com/matheussilvacydevs/matheussilvacydevs/blob/output/github-contribution-grid-snake.svg

@@ -34,7 +34,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 ## 🏆 Projetos Destacados
 
-- [Jogo Da Velha]
+- [Jogo Da Velha] 
 (https://github.com/matheussilvacydevs/Hash): Este é um projeto simples de um jogo da velha implementado em HTML, CSS e JavaScript.
 - [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
 - [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.

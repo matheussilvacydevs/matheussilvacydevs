@@ -7,7 +7,7 @@
 
 # Matheus Silva
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[MeuLinkedIn]-blue?logo=linkedin)](https://www.linkedin.com/in/matheus-gon%C3%A7alves-da-silva-260451187)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Matheus Silva]-blue?logo=linkedin)](https://www.linkedin.com/in/matheus-gon%C3%A7alves-da-silva-260451187)
 [![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
 ## 👋 Olá!

@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
   <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
 </div>
@@ -34,8 +31,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 ## 🏆 Projetos Destacados
 
-- [Jogo Da Velha]
-(https://github.com/matheussilvacydevs/Hash): Este é um projeto simples de um jogo da velha implementado em HTML, CSS e JavaScript.
 - [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
 - [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
 

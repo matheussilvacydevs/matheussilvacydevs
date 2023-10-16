@@ -13,6 +13,7 @@
 ## 👋 Olá!
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+
 Tesla: "Levantem a cabeça, agarrem cada chance, agora nós tornamos. Mais fortes que antes, nos nunca perderemos. Enquanto persistinos, portanto humanidade. Avancem!"
 
 ## 🚀 Minhas Skills

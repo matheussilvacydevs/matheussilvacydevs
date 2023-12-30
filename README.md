@@ -43,3 +43,8 @@ Tesla: "Levantem a cabeça, agarrem cada chance, agora nós tornamos. Mais forte
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
 ![Matheus Silva](https://github-readme-stats.vercel.app/api?username=matheussilvacydevs&show_icons=true&theme=merko)
+
+## Contato
+- 📧 Email: Matheussilva706@hotmail.com
+- 🐦 Twitter: [@matheus30945841](https://twitter.com/matheus30945841)
+- 💼 LinkedIn: [Matheus Silva](https://www.linkedin.com/in/matheus-gon%C3%A7alves-da-silva-260451187)

@@ -39,8 +39,14 @@ Tesla: "Levantem a cabeça, agarrem cada chance, agora nós tornamos. Mais forte
 - [Jogo Da Velha](https://github.com/matheussilvacydevs/Hash): Este é um projeto simples de um jogo da velha implementado em HTML, CSS e JavaScript.
 - [Animes Earth](https://github.com/seu-matheussilvacydevs/animesearth): Animes Earth: Sua porta de entrada para um universo cativante de streaming, oferecendo uma ampla variedade de animes emocionantes e atualizações regulares para os amantes da animação japonesa.
 
+## 💎 Certificados Destacados
 
+- [AWS Certified Cloud Practitione](https://imgdb.net/14641): Agradeço pela oportunidade de aprimorar minha expertise na configuração de instâncias de contêiner do Azure. Compartilho com entusiasmo meu certificado e estou pronto para aplicar essas habilidades na orquestração eficiente de contêineres em ambientes em nuvem. Obrigado por mais uma etapa valiosa no meu caminho de aprendizado! 🐳🌐 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
+
+- [Formação Certificação Certified Solutions Architect - Associate](https://imgdb.net/14642): Estou feliz em compartilhar que completei com sucesso a formação e obtenção da certificação "Certified Solutions Architect - Associate"! Este é um marco importante em minha jornada profissional, capacitando-me para projetar soluções escaláveis e eficientes na nuvem. Agradeço à equipe e recursos envolvidos nessa jornada e estou ansioso(a) para aplicar essas habilidades em projetos desafiadores. 
+
+##
 
 ![Matheus Silva](https://github-readme-stats.vercel.app/api?username=matheussilvacydevs&show_icons=true&theme=merko)
 

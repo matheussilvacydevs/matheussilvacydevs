@@ -47,8 +47,22 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 - [Formação Certificação Certified Solutions Architect - Associate](https://imgdb.net/14642): Estou feliz em compartilhar que completei com sucesso a formação e obtenção da certificação "Certified Solutions Architect - Associate"! Este é um marco importante em minha jornada profissional, capacitando-me para projetar soluções escaláveis e eficientes na nuvem. Agradeço à equipe e recursos envolvidos nessa jornada e estou ansioso(a) para aplicar essas habilidades em projetos desafiadores. 
 
 ##
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussilvacydevs&show_icons=true&theme=151515&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilvacydevs&layout=compact&langs_count=7&theme=151515&include_all_commits=true&count_private=true"/>
+    </td>
+  </tr>
+</table>
 
-![Matheus Silva](https://github-readme-stats.vercel.app/api?username=matheussilvacydevs&show_icons=true&theme=merko)
+<a href="https://github.com/matheussilvacydevs/okami-animes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=okami-animes&theme=151515"/>
+</a>
+
+
 
 ## Contato
 - 📧 Email: Matheussilva706@hotmail.com
@@ -59,14 +73,15 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/matheussilvacydevs/matheussilvacydevs/main/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/matheussilvacydevs/matheussilvacydevs/main/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/matheussilvacydevs/matheussilvacydevs/main/github-contribution-grid-snake.svg"
   />
 </picture>
+

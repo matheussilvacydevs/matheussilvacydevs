@@ -47,20 +47,57 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 - [Formação Certificação Certified Solutions Architect - Associate](https://imgdb.net/14642): Estou feliz em compartilhar que completei com sucesso a formação e obtenção da certificação "Certified Solutions Architect - Associate"! Este é um marco importante em minha jornada profissional, capacitando-me para projetar soluções escaláveis e eficientes na nuvem. Agradeço à equipe e recursos envolvidos nessa jornada e estou ansioso(a) para aplicar essas habilidades em projetos desafiadores. 
 
 ##
+<!-- Tabela para o overview do perfil -->
+<!-- Tabela para o overview do perfil -->
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussilvacydevs&show_icons=true&theme=151515&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussilvacydevs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&text_color=ffffff&bg_color=000000&title_color=4caf50"/>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilvacydevs&layout=compact&langs_count=7&theme=151515&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilvacydevs&layout=compact&langs_count=7&theme=radical&include_all_commits=true&count_private=true&text_color=ffffff&bg_color=000000&title_color=4caf50"/>
     </td>
   </tr>
 </table>
 
-<a href="https://github.com/matheussilvacydevs/okami-animes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=okami-animes&theme=151515"/>
-</a>
+<!-- Linha para os projetos destacados -->
+<hr style="border: 1px solid #4caf50;">
+
+<!-- Links para os projetos destacados -->
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/matheussilvacydevs/okami-animes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=okami-animes&theme=radical&title_color=4caf50&bg_color=000000"/>
+  </a>
+
+  <a href="https://github.com/matheussilvacydevs/loja-nft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=loja-nft&theme=radical&title_color=4caf50&bg_color=000000"/>
+  </a>
+  
+  
+</div>
+
+
+
+
+
+<div style="display: flex; justify-content: space-between;">
+<hr style="border: 1px solid #4caf50;">
+
+<a href="https://github.com/matheussilvacydevs/meu-portifolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=meu-portifolio&theme=radical&title_color=4caf50&bg_color=000000"/>
+  </a>
+
+<a href="https://github.com/matheussilvacydevs/k12">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=k12&theme=radical&title_color=4caf50&bg_color=000000"/>
+  </a>
+
+  </div>
+
+
+
+
+
+
 
 
 

@@ -69,19 +69,3 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 - 🐦 Twitter: [@matheus30945841](https://twitter.com/matheus30945841)
 - 💼 LinkedIn: [Matheus Silva](https://www.linkedin.com/in/matheus-gon%C3%A7alves-da-silva-260451187)
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/matheussilvacydevs/matheussilvacydevs/main/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/matheussilvacydevs/matheussilvacydevs/main/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/matheussilvacydevs/matheussilvacydevs/main/github-contribution-grid-snake.svg"
-  />
-</picture>
-

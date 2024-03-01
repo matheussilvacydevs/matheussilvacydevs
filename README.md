@@ -88,8 +88,9 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
   </a>
 
 <a href="https://github.com/matheussilvacydevs/k12">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=k12&theme=radical&title_color=4caf50&bg_color=000000"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=k12&theme=radical&title_color=4caf50&bg_color=000000"/>
+</a>
+
 
   </div>
 

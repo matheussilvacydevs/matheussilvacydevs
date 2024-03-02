@@ -60,46 +60,6 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
   </tr>
 </table>
 
-<!-- Linha para os projetos destacados -->
-<hr style="border: 1px solid #4caf50;">
-
-<!-- Links para os projetos destacados -->
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/matheussilvacydevs/okami-animes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=okami-animes&theme=radical&title_color=4caf50&bg_color=000000"/>
-  </a>
-
-  <a href="https://github.com/matheussilvacydevs/loja-nft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=loja-nft&theme=radical&title_color=4caf50&bg_color=000000"/>
-  </a>
-  
-  
-</div>
-
-
-
-
-
-<div style="display: flex; justify-content: space-between;">
-<hr style="border: 1px solid #4caf50;">
-
-<a href="https://github.com/matheussilvacydevs/meu-portifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=meu-portifolio&theme=radical&title_color=4caf50&bg_color=000000"/>
-  </a>
-
-<a href="https://github.com/matheussilvacydevs/k12">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussilvacydevs&repo=k12&theme=radical&title_color=4caf50&bg_color=000000"/>
-</a>
-
-
-  </div>
-
-
-
-
-
-
-
 
 
 ## Contato

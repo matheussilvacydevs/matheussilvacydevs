@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img src="animated_line_bar.png" width="100%" height="8px"/>
 
 <div><br />
 

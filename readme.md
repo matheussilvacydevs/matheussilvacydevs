@@ -29,12 +29,6 @@
 </div>
 
 ##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolwerr/wolwerr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wolwerr/wolwerr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wolwerr/wolwerr/output/github-contribution-grid-snake.svg">
-</picture>
-
 <div><br />
 <img src="animated_line_bar.png" width="100%" height="8px"/>
   

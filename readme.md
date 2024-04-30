@@ -15,7 +15,7 @@
 </div>
   
   <img height="145" src="https://github-readme-stats.vercel.app/api?username=matheussilvacydevs&show_icons=true&count_private=true&title_color=3891eb&icon_color=0069d1&text_color=c9d1d9&bg_color=0d0d0d&border_color=0e1b61" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheussilvacydevs&theme=tokyonight-duo" height="145" alt="matheussilvacydevs" />
+  
   <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilvacydevs&layout=compact&title_color=3891eb&text_color=fff&bg_color=0d0d0d&border_color=0e1b61" />
   
 </div>

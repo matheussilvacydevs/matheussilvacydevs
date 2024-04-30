@@ -10,15 +10,18 @@
   <a href="https://github.com/wolwerr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=matheussilvacydevs&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
   
   <img height="145" src="https://github-readme-stats.vercel.app/api?username=matheussilvacydevs&show_icons=true&count_private=true&title_color=3891eb&icon_color=0069d1&text_color=c9d1d9&bg_color=0d0d0d&border_color=0e1b61" /> 
   
   <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilvacydevs&layout=compact&title_color=3891eb&text_color=fff&bg_color=0d0d0d&border_color=0e1b61" />
+
+  </div>
+
+  ![](https://github-profile-trophy.vercel.app/?username=matheussilvacydevs&theme=radical&no-frame=true&no-bg=false&margin-w=4)
   
-</div>
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussilvacydevs&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussilvacydevs&theme=github_dark) |
 | :-: | :-: | 

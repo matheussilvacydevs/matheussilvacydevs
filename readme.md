@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Take a look! 📌  https://pin.it/5QeyBbwOO" width="100%" alt="Jarvis HUD"/>
+  <img src="Take a look! 📌  https://br.pinterest.com/pin/82190761940165353#imgViewer" width="100%" alt="Jarvis HUD"/>
 </p>
 
 <!-- Banner estilo futurista -->

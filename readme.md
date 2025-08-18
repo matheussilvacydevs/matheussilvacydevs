@@ -1,9 +1,9 @@
-
+<!-- Jarvis HUD GIF topo -->
 <p align="center">
-  <img src="Take a look! 📌  "https://gifer.com/embed/745" width="100%" alt="Jarvis HUD"/>
+  <img src="https://i.gifer.com/745.gif" width="100%" alt="Jarvis HUD"/>
 </p>
 
-
+<!-- Banner estilo futurista -->
 <img width="100%" src="banner (1).jpeg"/>
 
 <div align="center">

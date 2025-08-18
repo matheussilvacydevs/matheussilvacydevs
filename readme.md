@@ -3,11 +3,6 @@
   <img src="https://i.gifer.com/745.gif" width="100%" alt="Jarvis HUD"/>
 </p>
 
-<!-- Banner superior com efeito Z-flip -->
-<div align="center">
-  <img src="banner (1).jpeg" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 20px #00f0ff;" alt="Banner Top"/>
-</div>
-
 <div align="center">
 
 # 🛰️ Matheus Silva  

@@ -1,6 +1,6 @@
-<!-- Jarvis HUD GIF topo -->
+<!-- Jarvis HUD GIF topo com bordas arredondadas e sombra -->
 <p align="center">
-  <img src="https://i.gifer.com/745.gif" width="100%" alt="Jarvis HUD"/>
+  <img src="https://i.gifer.com/745.gif" width="100%" alt="Jarvis HUD" style="border-radius: 20px; box-shadow: 0px 0px 30px #00F0FF;"/>
 </p>
 
 <div align="center">

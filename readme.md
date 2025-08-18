@@ -3,7 +3,10 @@
   <img src="https://i.gifer.com/745.gif" width="100%" alt="Jarvis HUD"/>
 </p>
 
-<img width="100%" src="banner (1).jpeg"/>
+<!-- Banner superior com efeito Z-flip -->
+<div align="center">
+  <img src="banner (1).jpeg" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 20px #00f0ff;" alt="Banner Top"/>
+</div>
 
 <div align="center">
 
@@ -23,7 +26,10 @@
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=matheussilvacydevs&theme=matrix&no-frame=true&margin-w=8)
+<!-- Troféus ajustados -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheussilvacydevs&theme=matrix&no-frame=true&margin-w=8&margin-h=8&column=6" width="90%" />
+</p>
 
 <img src="https://i.imgur.com/LyHic3i.gif" width="100%"/> <!-- Linha animada estilo radar -->
 
@@ -42,10 +48,10 @@
 ### 💻 Operating Systems
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,windows,kali&theme=dark" />
 
-### 📱 Mobile
+### 📱 Mobile & Apps
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,gradle,flutter&theme=dark" />
 
-### 🌐 Web Applications
+### 🌐 Web Lab
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,tailwind,styledcomponents,vercel,git,github,vscode&theme=dark" />
 
 ---
@@ -59,6 +65,18 @@
 - 🎮 Se não estou codando, estou em **games, esportes ou explorando inovação**.  
 
 <img src="https://i.imgur.com/LyHic3i.gif" width="100%"/> <!-- Linha animada HUD -->
+
+---
+
+<!-- Banner inferior com efeito Z-flip -->
+<div align="center">
+  <img src="banner (1).jpeg" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 25px #FF00FF;" alt="Banner Bottom"/>
+</div>
+
+<!-- Z-flip animado com palavras-chave -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=3000&pause=500&color=FF00FF&center=true&width=500&lines=Innovation;Tech;Coding;FullStack;React;NextJS;Java;Kotlin;Tailwind;StyledComponents" alt="Z-flip Words" />
+</p>
 
 ---
 
